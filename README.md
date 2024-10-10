@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co/ZXXC8YQ/donate.jpg" alt="Support" width="300"/> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF5733&width=435&lines=FACEBOOK+MD+SPAM+SCRIPT;WhatsApp+Crash+%26+Bug+Bot;Developed+by+JOKER;Release+Date:+6/10/2024" alt="Typing SVG" /> </a> </p>
+<p align="center"> <img src="https://ibb.co/nr9SDPL" alt="Support" width="300"/> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF5733&width=435&lines=FACEBOOK+SPAM+SCRIPT;Facebook+spamming+%26+script+tool;Developed+by+RESONEX;Release+Date:+10/10/2024" alt="Typing SVG" /> </a> </p>
 
 ## Installation :
 
