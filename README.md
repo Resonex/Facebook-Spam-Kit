@@ -34,7 +34,7 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/Re
 
 <br>
 <p align="center">
-<img src=".__src__/incrk1.jpg"/>
+
 </p>
 
 
