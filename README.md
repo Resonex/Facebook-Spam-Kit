@@ -3,7 +3,8 @@
 ## Installation :
 
 * `apt update`
-* `apt install git python python2 -y`
+* `apt install git`
+* `apt install python2`
 * `git clone https://github.com/Resonex/Facebook-Spam-Kit.git`
 * `cd Facebook-Spam-Kit`
 
